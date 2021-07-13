@@ -30,7 +30,7 @@ Pulsar 的关键特性如下：
 
 #### 三、**架构**
 
-![img](file:///C:\Users\dell\AppData\Local\Temp\ksohtml19044\wps1.jpg)
+![img](http://47.101.69.157:8111/s/AjPZ6QrApoX2i6t/preview)
 
 #### 四、**与其他消息中间件对比**
 
